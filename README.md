@@ -1,4 +1,4 @@
-# Adding-Data-in-a-Interactive-Way-in-R
+# Adding-Data-in-a-Interactive-Way-Using-R
 
 A small project using R
 
